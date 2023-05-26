@@ -22,3 +22,5 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaiBhalla03&theme=radical)
+
+Profile Views: [![HitCount](https://hits.dwyl.com/JaiBhalla03/JaiBhalla03.svg?style=flat-square)](http://hits.dwyl.com/JaiBhalla03/JaiBhalla03)
