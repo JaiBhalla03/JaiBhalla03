@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **various full stack applications.**
 
-- 🌱 I’m currently learning **AI/ML.**
+- 🌱 I’m currently learning **DEVOPS.**
 
 - 📫 How to reach me **jaibhalla35@gmail.com**
 
