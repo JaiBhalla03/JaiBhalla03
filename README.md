@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **: Coding be like... It doesn't work.. why? It works.. why?**
 
+<a href="https://jaibhalla-dev.vercel.app/" target="blank">Visit My Portfolio</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jai-bhalla-a59b06230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jai bhalla" height="30" width="40" /></a>
